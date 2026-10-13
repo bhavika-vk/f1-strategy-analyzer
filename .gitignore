@@ -4,3 +4,6 @@ __pycache__/
 .env
 data/
 mlruns/
+mlflow.db
+notebooks/cache/
+.DS_Store
