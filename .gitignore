@@ -9,3 +9,5 @@ cache/
 .DS_Store
 docs/plans/
 docs/decision_log.md
+notebooks/cache/
+.DS_Store
